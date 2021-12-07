@@ -1,10 +1,9 @@
 body
 {
-    color: #333;
+    color: red;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
-<<<<<<< HEAD
     margin: 0;
     padding: 0;
 }
@@ -15,8 +14,6 @@ body
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
-=======
->>>>>>> cabecera
     margin: 0;
     padding: 0;
 }
